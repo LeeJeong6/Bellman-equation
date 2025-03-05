@@ -27,7 +27,6 @@ This graph is difference of calculated value of state and bellman value
 - `matplotlib`
 
 ### Running the Script:
+`python Basic_situation.py`
 
-(`python Basic_situation.py`)
-
-(`python get_value.py`)
+`python get_value.py`
